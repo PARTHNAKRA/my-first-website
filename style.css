@@ -1,0 +1,17 @@
+h1{
+    color:red;
+}
+body{
+    background-color: purple;
+    text-align: center;
+
+}
+h2{
+    color:red;
+}
+p{
+    font-family: 'Sigmar One', cursive;
+    text-justify: auto;
+    font-size: 30px;
+    color:yellowgreen;
+}
